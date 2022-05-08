@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projet_orion_client</string>
+    <string name="button">Button</string>
+    <string name="no_movie">No movie</string>
+</resources>
